@@ -1,0 +1,321 @@
+player_id,player_name,team,position,season,age,goals,assists,shots,shots_on_target,minutes_played,pass_accuracy,dribbles_completed,tackles,yellow_cards,red_cards,player_rating,nationality
+1,Diego Klein,FC Atletico,GK,2022-23,32,0,0,0,0,2130,68.1,2,42,10,0,7.7,Senegalese
+2,Samuel García,FC Atletico,GK,2022-23,19,1,1,1,1,2259,68.6,4,52,5,0,8.0,Ghanaian
+3,Emre Adeyemi,FC Atletico,DEF,2022-23,27,5,5,16,8,2968,81.1,7,21,6,1,6.9,Swedish
+4,Artur Costa,FC Atletico,DEF,2022-23,35,1,4,3,1,934,82.3,11,22,0,0,6.5,Italian
+5,Oluwaseun Okafor,FC Atletico,DEF,2022-23,19,1,1,5,1,2479,73.3,22,40,9,1,7.4,Argentine
+6,Robert Bogdan,FC Atletico,DEF,2022-23,25,3,0,9,8,3164,85.2,22,38,0,0,7.0,Mexican
+7,Pierre Alves,FC Atletico,DEF,2022-23,18,2,2,18,4,1278,82.8,39,47,9,2,7.7,Ghanaian
+8,Artur Petrov,FC Atletico,DEF,2022-23,26,2,1,2,2,1704,71.1,27,38,7,1,7.2,Dutch
+9,Luca García,FC Atletico,MID,2022-23,22,4,3,14,14,1292,83.2,33,11,9,1,5.9,Colombian
+10,Patrick Petrov,FC Atletico,MID,2022-23,34,5,7,32,12,1440,84.1,34,15,6,2,6.5,Belgian
+11,Artur Müller,FC Atletico,MID,2022-23,27,10,7,15,13,2263,81.1,63,16,10,1,6.4,Moroccan
+12,Mohamed Petrov,FC Atletico,MID,2022-23,18,8,13,22,8,2379,89.2,58,10,4,0,6.8,English
+13,Gabriel Alves,FC Atletico,MID,2022-23,32,5,3,21,16,2536,77.0,21,7,7,0,5.7,Italian
+14,Marco Müller,FC Atletico,MID,2022-23,22,2,5,11,6,2339,82.6,45,10,3,2,6.2,English
+15,Henrik Torres,FC Atletico,MID,2022-23,23,5,4,15,8,1508,80.0,67,20,10,1,6.3,German
+16,Carlos Klein,FC Atletico,FWD,2022-23,21,30,3,38,38,2859,67.7,21,10,1,1,7.5,Polish
+17,Artur Bakr,FC Atletico,FWD,2022-23,35,0,7,79,0,2949,63.8,62,18,4,0,5.2,Nigerian
+18,Andre Kovač,FC Atletico,FWD,2022-23,26,7,3,39,7,2548,79.5,47,12,3,1,5.5,Brazilian
+19,Alejandro García,FC Atletico,FWD,2022-23,33,29,13,37,35,1856,63.5,32,3,0,0,8.1,Brazilian
+20,Stefan Papadopoulos,FC Atletico,FWD,2022-23,33,26,8,26,26,1359,75.9,47,17,2,1,7.6,Belgian
+21,Stefan Kone,Red Dragons FC,GK,2022-23,23,0,2,1,1,3100,83.1,2,53,0,0,8.5,Argentine
+22,Luca Rossi,Red Dragons FC,GK,2022-23,33,0,2,3,0,1957,77.9,0,47,4,1,8.0,Polish
+23,Pierre Rossi,Red Dragons FC,DEF,2022-23,34,0,6,4,0,2906,87.6,25,46,2,1,7.8,Mexican
+24,Luis Reyes,Red Dragons FC,DEF,2022-23,20,5,1,16,16,2309,87.8,6,41,7,0,7.3,Dutch
+25,Luis Marek,Red Dragons FC,DEF,2022-23,24,1,2,19,12,935,85.6,17,21,3,0,6.3,Nigerian
+26,Stefan Marek,Red Dragons FC,DEF,2022-23,31,2,6,16,16,2882,76.8,6,46,3,1,7.8,Ghanaian
+27,Luis Fernandez,Red Dragons FC,DEF,2022-23,22,3,3,13,3,1776,87.4,8,20,2,2,6.4,English
+28,Robert Eriksen,Red Dragons FC,DEF,2022-23,35,4,2,18,4,1981,77.2,23,42,9,0,7.1,Nigerian
+29,Pierre Andersen,Red Dragons FC,MID,2022-23,18,3,8,34,4,2112,85.2,72,5,5,0,6.2,English
+30,Gabriel Reyes,Red Dragons FC,MID,2022-23,33,6,8,38,29,1908,74.3,24,19,3,0,6.4,Polish
+31,Nikos Reyes,Red Dragons FC,MID,2022-23,33,4,3,39,4,2681,85.0,77,14,3,1,5.9,Portuguese
+32,Matteo Reyes,Red Dragons FC,MID,2022-23,36,1,7,54,1,2682,75.3,43,20,0,0,6.4,English
+33,Henrik Klein,Red Dragons FC,MID,2022-23,29,4,14,42,11,2536,81.2,70,15,2,0,7.2,Croatian
+34,Matteo Fernandez,Red Dragons FC,MID,2022-23,29,3,15,44,33,2525,78.7,45,12,2,0,6.8,Moroccan
+35,Nikos Papadopoulos,Red Dragons FC,MID,2022-23,35,8,15,45,8,2792,80.4,76,8,7,2,7.3,Moroccan
+36,Robert Okafor,Red Dragons FC,FWD,2022-23,35,11,8,42,22,2448,80.5,51,13,8,2,6.0,Norwegian
+37,Emre Torres,Red Dragons FC,FWD,2022-23,33,6,1,55,6,1164,60.2,55,13,3,2,5.1,Moroccan
+38,Robert Papadopoulos,Red Dragons FC,FWD,2022-23,22,16,9,71,52,1962,74.8,50,17,9,1,6.6,Brazilian
+39,Nikos Rossi,Red Dragons FC,FWD,2022-23,20,15,2,66,45,2442,63.1,24,13,7,1,6.0,Senegalese
+40,Henrik Reyes,Red Dragons FC,FWD,2022-23,19,9,6,38,16,2265,72.8,59,2,6,0,5.9,German
+41,James Nguyen,City United,GK,2022-23,36,1,2,2,2,2949,70.0,2,58,1,1,8.4,Ghanaian
+42,Jakub Strauss,City United,GK,2022-23,25,0,0,2,0,2623,76.7,0,44,5,0,8.2,Italian
+43,Gabriel Eriksen,City United,DEF,2022-23,30,4,5,22,17,2455,87.9,39,33,8,0,7.4,Colombian
+44,Luca Papadopoulos,City United,DEF,2022-23,20,0,2,13,11,1257,87.3,20,22,7,0,6.5,Swedish
+45,Artur Okafor,City United,DEF,2022-23,25,0,3,6,0,2124,87.5,31,31,4,0,7.2,Croatian
+46,Tomasz Eriksen,City United,DEF,2022-23,31,4,5,19,9,3397,77.5,9,39,7,1,7.5,Brazilian
+47,Ivan Rossi,City United,DEF,2022-23,18,1,6,18,12,1588,76.8,30,39,0,0,7.3,English
+48,Carlos Silva,City United,DEF,2022-23,33,1,0,6,1,1613,88.0,7,37,2,0,7.1,Argentine
+49,Pierre Costa,City United,MID,2022-23,18,5,3,49,25,2474,84.4,47,12,9,1,6.0,Polish
+50,Carlos Adeyemi,City United,MID,2022-23,35,2,8,53,16,2748,83.2,49,31,6,2,6.7,Ghanaian
+51,Stefan Müller,City United,MID,2022-23,28,8,8,43,26,2258,79.0,53,22,2,2,6.8,Polish
+52,Mohamed Nguyen,City United,MID,2022-23,18,8,12,26,16,3131,91.0,23,14,9,0,6.9,Colombian
+53,Samuel Rossi,City United,MID,2022-23,19,6,4,22,14,2806,76.2,62,20,8,2,5.9,Argentine
+54,Takeshi Novak,City United,MID,2022-23,33,5,10,13,12,1566,78.9,22,7,1,0,6.3,Dutch
+55,Patrick Papadopoulos,City United,MID,2022-23,22,11,15,31,11,3180,73.8,20,9,9,1,7.0,Croatian
+56,Stefan Reyes,City United,FWD,2022-23,30,30,9,66,60,947,73.8,61,12,0,0,8.1,Italian
+57,Luca Santos,City United,FWD,2022-23,34,24,8,41,25,1264,65.2,42,15,10,2,7.6,Brazilian
+58,Kevin Dubois,City United,FWD,2022-23,31,14,12,64,14,2806,79.1,52,4,8,2,6.8,Senegalese
+59,Matteo Petrov,City United,FWD,2022-23,34,26,10,63,40,966,65.1,27,5,1,0,7.9,Portuguese
+60,Luis Müller,City United,FWD,2022-23,32,12,1,63,51,2441,62.8,55,6,9,1,5.5,Dutch
+61,Henrik Eriksen,Riverside Athletic,GK,2022-23,23,0,0,0,0,2642,67.0,3,49,7,2,8.1,German
+62,Carlos Johansson,Riverside Athletic,GK,2022-23,25,0,2,1,0,1803,73.0,3,30,5,1,7.1,German
+63,Samuel Nguyen,Riverside Athletic,DEF,2022-23,36,2,1,20,3,2333,85.1,9,20,2,0,6.7,Spanish
+64,Gabriel Bogdan,Riverside Athletic,DEF,2022-23,18,1,4,12,1,1801,86.8,17,17,7,1,6.5,Mexican
+65,Matteo Andersen,Riverside Athletic,DEF,2022-23,19,1,3,2,2,2894,72.5,13,31,7,1,6.7,Moroccan
+66,Alejandro Torres,Riverside Athletic,DEF,2022-23,22,0,5,22,0,2470,83.2,13,48,7,1,7.4,Ghanaian
+67,Tomasz Santos,Riverside Athletic,DEF,2022-23,28,1,5,4,1,977,73.0,9,33,3,0,7.1,Italian
+68,Mohamed Mbeki,Riverside Athletic,DEF,2022-23,25,0,2,7,0,3092,79.7,19,47,6,1,7.6,Dutch
+69,Oluwaseun Santos,Riverside Athletic,MID,2022-23,36,3,8,15,3,2371,78.7,70,12,0,0,6.3,Portuguese
+70,Diego Adeyemi,Riverside Athletic,MID,2022-23,21,10,3,46,21,3143,87.6,52,34,1,1,6.6,Argentine
+71,Matteo Silva,Riverside Athletic,MID,2022-23,23,3,15,33,3,2994,84.1,34,33,1,0,7.3,Moroccan
+72,Patrick Okafor,Riverside Athletic,MID,2022-23,21,12,7,29,22,1611,75.6,29,12,9,1,6.6,Senegalese
+73,Nikos Eriksen,Riverside Athletic,MID,2022-23,25,10,3,49,47,1255,89.4,31,16,3,0,6.7,Croatian
+74,Oluwaseun Diallo,Riverside Athletic,MID,2022-23,34,0,5,38,0,2330,74.1,60,26,4,0,5.8,Italian
+75,James Novak,Riverside Athletic,MID,2022-23,18,8,7,18,8,3260,86.9,29,24,2,2,6.7,Polish
+76,Nikos Fernandez,Riverside Athletic,FWD,2022-23,23,11,2,46,43,1854,76.2,31,12,10,2,5.6,Spanish
+77,Jakub Nguyen,Riverside Athletic,FWD,2022-23,18,15,6,45,16,1866,60.3,35,18,3,0,6.2,Norwegian
+78,Luis Novak,Riverside Athletic,FWD,2022-23,25,11,1,51,28,1328,61.5,37,18,7,2,5.4,Norwegian
+79,Stefan Johansson,Riverside Athletic,FWD,2022-23,32,3,6,47,3,1846,70.6,44,7,0,0,5.1,Croatian
+80,Andre Petrov,Riverside Athletic,FWD,2022-23,20,14,3,65,56,1732,71.6,47,19,6,2,6.0,Nigerian
+81,Henrik Blanc,Northern Stars,GK,2022-23,25,0,2,2,1,1895,78.1,1,54,7,1,8.6,Colombian
+82,James Klein,Northern Stars,GK,2022-23,22,0,2,3,0,1950,66.7,1,26,2,0,7.2,Mexican
+83,Tomasz Strauss,Northern Stars,DEF,2022-23,35,0,6,6,6,1370,76.2,6,17,3,0,6.2,Spanish
+84,Alejandro Kovač,Northern Stars,DEF,2022-23,19,2,3,23,13,3006,84.0,21,24,6,0,6.7,Ghanaian
+85,Emre Costa,Northern Stars,DEF,2022-23,26,1,4,8,1,1341,73.9,26,18,6,0,6.0,Dutch
+86,Youssef Papadopoulos,Northern Stars,DEF,2022-23,27,0,5,3,0,2522,80.0,29,26,9,1,6.5,French
+87,Henrik Santos,Northern Stars,DEF,2022-23,19,4,0,22,13,1601,73.2,21,40,1,1,7.4,Ghanaian
+88,Luca Johansson,Northern Stars,DEF,2022-23,21,1,4,22,6,2036,85.1,15,50,7,2,8.1,Polish
+89,Andre Bogdan,Northern Stars,MID,2022-23,22,10,6,29,10,1264,75.2,71,15,1,0,6.6,English
+90,Daniel Kovač,Northern Stars,MID,2022-23,26,2,3,34,34,924,86.1,59,14,2,1,6.1,Dutch
+91,Gabriel Johansson,Northern Stars,MID,2022-23,23,4,7,53,9,1940,88.1,68,33,8,2,6.7,Spanish
+92,Gabriel Kone,Northern Stars,MID,2022-23,33,7,7,26,7,1609,85.2,73,20,8,1,6.6,Polish
+93,Kevin Adeyemi,Northern Stars,MID,2022-23,26,6,12,25,6,1149,90.5,42,30,4,2,7.0,Moroccan
+94,Robert Santos,Northern Stars,MID,2022-23,35,5,9,44,13,2196,78.4,61,11,7,2,6.5,Croatian
+95,Ivan Müller,Northern Stars,MID,2022-23,20,12,10,35,21,2272,86.5,63,11,8,0,7.0,German
+96,Alejandro Müller,Northern Stars,FWD,2022-23,20,6,11,74,38,2814,64.1,32,4,3,0,6.0,Nigerian
+97,Tomasz Kone,Northern Stars,FWD,2022-23,29,4,12,66,4,1239,68.8,44,8,0,0,5.7,Swedish
+98,Carlos Eriksen,Northern Stars,FWD,2022-23,31,8,2,56,8,2898,60.9,15,15,0,0,5.3,Croatian
+99,James Andersen,Northern Stars,FWD,2022-23,22,12,12,25,12,1985,81.6,60,12,1,0,6.8,German
+100,James Adeyemi,Northern Stars,FWD,2022-23,25,26,5,70,56,1125,71.3,24,12,9,0,7.3,Belgian
+101,Carlos Alves,Coastal FC,GK,2022-23,23,0,1,2,1,2843,69.3,0,54,0,0,8.0,German
+102,Matteo García,Coastal FC,GK,2022-23,35,1,0,3,3,2580,82.9,2,57,8,0,8.9,Croatian
+103,Ahmed Müller,Coastal FC,DEF,2022-23,28,2,2,10,8,1069,70.8,38,26,7,0,6.6,Italian
+104,Henrik Müller,Coastal FC,DEF,2022-23,32,2,4,17,4,1695,78.9,10,27,0,0,6.5,Argentine
+105,Ivan Kone,Coastal FC,DEF,2022-23,36,1,2,14,7,3283,74.8,10,38,0,0,6.9,Brazilian
+106,Robert Kovač,Coastal FC,DEF,2022-23,30,4,0,22,10,3080,82.2,31,21,9,0,6.2,Senegalese
+107,Andre Diallo,Coastal FC,DEF,2022-23,27,4,5,8,6,1488,72.9,6,28,1,1,6.5,Senegalese
+108,Pierre Torres,Coastal FC,DEF,2022-23,25,0,4,4,0,1485,72.3,23,44,1,0,7.3,Spanish
+109,Kevin Kone,Coastal FC,MID,2022-23,22,0,6,13,0,1817,78.0,36,16,9,1,5.9,French
+110,Nikos Alves,Coastal FC,MID,2022-23,35,5,13,44,10,928,83.9,31,11,0,0,6.7,Croatian
+111,Kevin Johansson,Coastal FC,MID,2022-23,28,3,15,13,6,938,80.5,32,13,10,1,7.0,Spanish
+112,Jakub Novak,Coastal FC,MID,2022-23,28,2,14,37,19,1768,86.6,66,20,5,2,6.8,Brazilian
+113,Luca Reyes,Coastal FC,MID,2022-23,23,3,15,44,14,2709,72.6,44,28,10,1,6.8,Colombian
+114,Tomasz Papadopoulos,Coastal FC,MID,2022-23,25,2,4,16,2,2459,84.5,63,25,3,1,6.1,Colombian
+115,Alejandro Costa,Coastal FC,MID,2022-23,24,1,6,18,1,1913,76.0,76,32,7,2,6.5,Norwegian
+116,Emre Santos,Coastal FC,FWD,2022-23,35,18,6,51,37,2943,74.5,39,2,8,2,6.7,Croatian
+117,Samuel Kovač,Coastal FC,FWD,2022-23,34,29,6,41,31,1835,64.6,47,11,1,1,7.6,Ghanaian
+118,Luca Silva,Coastal FC,FWD,2022-23,26,5,13,71,45,989,67.9,53,3,9,1,6.2,Moroccan
+119,Matteo Dubois,Coastal FC,FWD,2022-23,29,12,11,80,31,3170,75.5,20,10,8,1,6.8,Norwegian
+120,Oluwaseun Mbeki,Coastal FC,FWD,2022-23,32,13,4,35,13,1708,72.0,36,4,10,1,5.8,Portuguese
+121,Andre Andersen,East End Rovers,GK,2022-23,30,0,1,2,2,2108,84.5,3,27,2,1,7.2,Moroccan
+122,Patrick Novak,East End Rovers,GK,2022-23,22,0,2,3,0,3030,69.0,2,48,6,0,8.1,Italian
+123,Nikos Blanc,East End Rovers,DEF,2022-23,22,3,3,21,20,2173,79.1,36,50,1,1,7.8,French
+124,Kevin Müller,East End Rovers,DEF,2022-23,21,1,2,20,7,1429,75.1,16,17,4,2,6.1,Argentine
+125,Nikos Santos,East End Rovers,DEF,2022-23,21,4,6,11,4,1274,74.3,18,16,4,1,6.3,Swedish
+126,Alejandro Novak,East End Rovers,DEF,2022-23,32,0,3,3,3,2940,71.7,21,39,1,0,7.2,Mexican
+127,James Eriksen,East End Rovers,DEF,2022-23,32,1,2,23,11,2701,73.1,14,43,8,0,7.2,Senegalese
+128,Oluwaseun Fernandez,East End Rovers,DEF,2022-23,29,0,5,21,14,2290,76.8,16,42,5,2,7.1,English
+129,Youssef Costa,East End Rovers,MID,2022-23,19,4,6,35,4,1097,72.8,74,7,0,0,6.0,Italian
+130,Stefan Andersen,East End Rovers,MID,2022-23,27,6,4,33,30,2108,85.7,53,29,7,2,6.4,Belgian
+131,Felix Klein,East End Rovers,MID,2022-23,30,3,12,17,5,2699,91.4,20,27,4,2,6.8,Belgian
+132,Marco Silva,East End Rovers,MID,2022-23,28,3,4,26,26,1487,88.6,66,12,7,0,6.2,Nigerian
+133,Patrick Marek,East End Rovers,MID,2022-23,31,5,11,35,5,1603,79.0,21,22,8,0,6.7,Swedish
+134,Pierre Papadopoulos,East End Rovers,MID,2022-23,30,12,6,43,18,2537,80.1,65,8,5,1,6.6,Italian
+135,Pierre Dubois,East End Rovers,MID,2022-23,36,12,3,33,14,1610,77.9,26,29,4,2,6.4,Moroccan
+136,Mohamed Silva,East End Rovers,FWD,2022-23,34,7,12,57,45,1861,61.6,49,9,8,2,6.1,Norwegian
+137,Oluwaseun Marek,East End Rovers,FWD,2022-23,19,25,13,45,36,1203,62.4,19,3,3,2,7.9,Argentine
+138,Andre Nguyen,East End Rovers,FWD,2022-23,31,15,11,62,15,1914,60.4,37,12,4,2,6.7,Croatian
+139,Takeshi Johansson,East End Rovers,FWD,2022-23,32,25,13,41,26,1272,64.3,28,5,2,1,8.0,French
+140,Youssef Müller,East End Rovers,FWD,2022-23,34,8,10,44,12,1962,71.5,21,13,6,2,5.8,Moroccan
+141,Matteo Blanc,Westgate FC,GK,2022-23,27,1,1,2,1,2686,81.3,3,32,5,0,7.8,French
+142,Pierre Reyes,Westgate FC,GK,2022-23,26,0,1,0,0,2658,81.8,0,45,4,1,8.3,Colombian
+143,James Strauss,Westgate FC,DEF,2022-23,24,0,1,20,2,2484,81.2,37,19,1,0,6.2,Nigerian
+144,Emre Novak,Westgate FC,DEF,2022-23,33,2,3,8,8,2000,79.8,14,23,8,1,6.5,German
+145,Diego Papadopoulos,Westgate FC,DEF,2022-23,35,1,5,8,2,1599,83.0,15,38,3,1,7.2,Brazilian
+146,Diego Eriksen,Westgate FC,DEF,2022-23,31,4,0,5,5,2814,73.5,12,47,8,2,7.2,French
+147,Emre Strauss,Westgate FC,DEF,2022-23,19,2,2,22,2,3328,74.9,12,17,5,1,6.0,German
+148,Gabriel Müller,Westgate FC,DEF,2022-23,23,2,1,24,3,2365,78.4,12,36,4,0,7.1,Norwegian
+149,Kevin Bakr,Westgate FC,MID,2022-23,33,10,9,25,12,2579,72.0,35,16,6,2,6.4,Nigerian
+150,Ahmed Klein,Westgate FC,MID,2022-23,25,2,11,39,38,1355,82.4,25,26,0,0,6.8,Ghanaian
+151,Gabriel Nguyen,Westgate FC,MID,2022-23,19,1,3,32,1,1240,77.3,21,13,10,0,5.8,Mexican
+152,Takeshi García,Westgate FC,MID,2022-23,21,8,8,44,36,2239,87.7,34,26,3,1,6.8,Croatian
+153,Emre Diallo,Westgate FC,MID,2022-23,23,4,10,51,13,1847,89.4,25,7,8,2,6.5,Croatian
+154,Marco Adeyemi,Westgate FC,MID,2022-23,19,3,6,27,21,1692,84.8,44,6,0,0,6.4,Brazilian
+155,Stefan Silva,Westgate FC,MID,2022-23,31,4,15,12,4,2576,91.1,25,29,1,1,7.3,Swedish
+156,James Bakr,Westgate FC,FWD,2022-23,32,13,12,31,13,1442,81.2,46,14,3,1,6.7,French
+157,Felix Blanc,Westgate FC,FWD,2022-23,28,1,3,50,1,3292,61.3,33,3,10,1,4.4,Spanish
+158,Samuel Bogdan,Westgate FC,FWD,2022-23,26,13,3,40,32,1299,62.7,60,8,3,2,5.8,Polish
+159,Ahmed Petrov,Westgate FC,FWD,2022-23,21,11,2,56,27,3102,79.5,49,8,5,1,5.6,Argentine
+160,Tomasz Novak,Westgate FC,FWD,2022-23,22,0,6,57,0,1800,65.7,24,8,4,1,4.7,Spanish
+161,Daniel Papadopoulos,FC Atletico,GK,2023-24,35,0,0,2,2,2107,70.3,2,40,4,1,7.4,German
+162,Marco Klein,FC Atletico,GK,2023-24,33,0,2,0,0,2353,77.3,4,57,4,1,8.7,Croatian
+163,Pierre Silva,FC Atletico,DEF,2023-24,19,4,0,11,6,1614,86.7,25,42,1,1,7.7,Swedish
+164,Oluwaseun Torres,FC Atletico,DEF,2023-24,32,3,6,14,4,3034,72.7,36,15,7,0,6.0,Norwegian
+165,Andre Fernandez,FC Atletico,DEF,2023-24,18,2,2,18,3,1265,87.2,25,45,10,2,7.9,Moroccan
+166,Patrick Strauss,FC Atletico,DEF,2023-24,36,1,4,6,1,2243,81.9,36,22,5,2,6.4,Senegalese
+167,Artur Torres,FC Atletico,DEF,2023-24,25,0,0,3,0,2513,82.0,7,50,8,0,7.7,Dutch
+168,Alejandro Mbeki,FC Atletico,DEF,2023-24,27,1,2,9,1,3298,72.1,17,46,10,1,7.3,French
+169,Mohamed Santos,FC Atletico,MID,2023-24,31,7,6,39,20,1585,90.6,63,23,2,1,6.8,Croatian
+170,Emre Andersen,FC Atletico,MID,2023-24,26,3,7,22,6,3185,76.4,27,18,6,2,6.1,Colombian
+171,Mohamed Novak,FC Atletico,MID,2023-24,30,3,15,30,18,2386,86.5,46,22,6,0,7.1,Croatian
+172,Ahmed Blanc,FC Atletico,MID,2023-24,18,7,5,32,7,2204,85.8,58,16,9,1,6.1,Brazilian
+173,Luca Andersen,FC Atletico,MID,2023-24,22,2,6,49,45,2328,75.9,61,6,6,2,5.7,Brazilian
+174,Pierre Marek,FC Atletico,MID,2023-24,30,5,6,31,13,3156,89.0,77,26,8,1,6.7,Italian
+175,Jakub Fernandez,FC Atletico,MID,2023-24,33,3,8,28,3,2304,91.9,23,19,3,1,6.8,Polish
+176,Carlos Reyes,FC Atletico,FWD,2023-24,22,25,6,59,59,2695,63.9,24,7,8,0,7.2,Argentine
+177,James Blanc,FC Atletico,FWD,2023-24,31,28,5,35,29,1061,65.0,66,5,1,0,7.5,Brazilian
+178,Artur Johansson,FC Atletico,FWD,2023-24,34,23,6,43,30,2040,67.4,44,7,3,2,7.2,Mexican
+179,James Kone,FC Atletico,FWD,2023-24,34,22,4,68,44,1919,73.2,61,12,0,0,7.0,English
+180,Henrik Bogdan,FC Atletico,FWD,2023-24,23,18,12,30,24,1736,76.3,40,17,3,0,7.6,Colombian
+181,Takeshi Torres,Red Dragons FC,GK,2023-24,30,0,2,0,0,3125,80.7,2,54,9,2,8.4,Argentine
+182,Emre Papadopoulos,Red Dragons FC,GK,2023-24,27,1,1,1,1,2440,66.6,1,54,8,1,7.8,German
+183,Stefan Strauss,Red Dragons FC,DEF,2023-24,29,0,3,22,6,2143,71.2,34,36,2,2,7.2,Belgian
+184,Samuel Diallo,Red Dragons FC,DEF,2023-24,33,3,6,11,3,2736,85.2,10,23,7,2,6.5,Swedish
+185,Mohamed Papadopoulos,Red Dragons FC,DEF,2023-24,21,0,2,8,7,1571,71.6,19,32,10,2,7.0,Croatian
+186,Daniel Diallo,Red Dragons FC,DEF,2023-24,29,0,4,22,4,2653,74.6,7,37,7,0,7.1,Mexican
+187,Gabriel Bakr,Red Dragons FC,DEF,2023-24,26,0,4,5,0,3236,77.5,11,36,7,0,6.9,English
+188,Artur Reyes,Red Dragons FC,DEF,2023-24,28,4,0,18,4,1752,81.0,10,48,1,1,7.8,Italian
+189,Marco Diallo,Red Dragons FC,MID,2023-24,19,4,15,48,9,2217,82.9,43,19,2,2,7.2,Swedish
+190,Jakub Reyes,Red Dragons FC,MID,2023-24,21,5,8,24,19,2649,76.1,40,19,10,0,6.4,Mexican
+191,Nikos Strauss,Red Dragons FC,MID,2023-24,34,2,10,12,2,1911,90.2,52,14,5,2,6.7,Spanish
+192,Mohamed Adeyemi,Red Dragons FC,MID,2023-24,35,4,7,20,8,1375,76.1,29,12,3,0,6.3,Senegalese
+193,Kevin Bogdan,Red Dragons FC,MID,2023-24,33,6,4,51,6,3333,81.0,25,16,2,0,6.4,Mexican
+194,Youssef Fernandez,Red Dragons FC,MID,2023-24,25,2,14,10,10,2815,72.7,27,9,4,1,6.6,Argentine
+195,Luis Johansson,Red Dragons FC,MID,2023-24,26,12,9,25,20,1912,91.8,64,27,1,1,7.5,Ghanaian
+196,Nikos Adeyemi,Red Dragons FC,FWD,2023-24,22,5,4,44,27,1126,78.1,40,6,8,1,5.3,Brazilian
+197,Takeshi Müller,Red Dragons FC,FWD,2023-24,32,16,9,40,27,1487,65.6,36,4,9,0,6.5,Ghanaian
+198,Nikos Kone,Red Dragons FC,FWD,2023-24,18,24,2,60,47,3226,76.3,32,12,5,0,7.3,Brazilian
+199,Takeshi Kone,Red Dragons FC,FWD,2023-24,32,5,4,80,27,1835,74.9,16,4,6,1,5.5,Brazilian
+200,Artur Silva,Red Dragons FC,FWD,2023-24,25,8,10,44,13,2236,64.7,29,4,3,0,6.2,Brazilian
+201,Carlos Strauss,City United,GK,2023-24,30,0,2,0,0,3266,82.5,2,42,10,1,8.0,Colombian
+202,Felix Costa,City United,GK,2023-24,21,1,2,2,1,2080,84.5,2,39,9,1,7.8,Dutch
+203,Robert Bakr,City United,DEF,2023-24,36,2,2,11,6,3120,82.6,32,34,8,2,7.2,Mexican
+204,Mohamed Strauss,City United,DEF,2023-24,36,3,5,7,7,1164,72.2,21,44,0,0,7.4,Colombian
+205,Mohamed Costa,City United,DEF,2023-24,28,0,2,15,7,1887,83.4,8,18,1,0,6.3,Brazilian
+206,Luis Kovač,City United,DEF,2023-24,33,3,3,4,3,2248,74.8,25,35,4,2,7.0,Norwegian
+207,Daniel Blanc,City United,DEF,2023-24,26,3,2,18,12,1931,71.2,36,15,6,2,5.8,Italian
+208,Luis Andersen,City United,DEF,2023-24,31,0,2,21,18,1404,78.0,25,34,3,2,7.0,Colombian
+209,Ivan García,City United,MID,2023-24,29,5,4,36,5,2010,86.9,20,12,5,0,5.9,Spanish
+210,Tomasz Andersen,City United,MID,2023-24,23,4,14,51,39,1766,91.4,48,17,2,0,7.1,Dutch
+211,Emre Eriksen,City United,MID,2023-24,23,2,10,52,20,2730,88.9,52,30,4,0,6.6,Norwegian
+212,Luis Kone,City United,MID,2023-24,26,9,7,50,40,1082,88.4,40,23,6,0,6.9,Italian
+213,Takeshi Eriksen,City United,MID,2023-24,31,2,10,53,44,2936,86.6,27,12,0,0,6.7,Moroccan
+214,Diego Strauss,City United,MID,2023-24,22,10,13,32,19,2610,86.4,66,27,1,1,7.1,Dutch
+215,Alejandro Silva,City United,MID,2023-24,21,6,5,37,14,1231,83.0,68,5,8,2,6.1,Croatian
+216,Tomasz Kovač,City United,FWD,2023-24,27,2,11,32,2,2463,60.2,32,10,3,1,5.3,Spanish
+217,Marco Blanc,City United,FWD,2023-24,23,0,8,21,0,3182,60.3,26,4,6,0,4.9,Brazilian
+218,Ahmed Papadopoulos,City United,FWD,2023-24,34,8,6,62,8,1274,69.5,49,14,4,1,5.9,Argentine
+219,Artur Andersen,City United,FWD,2023-24,19,7,12,63,58,2941,80.2,37,9,8,1,6.3,Brazilian
+220,Luca Alves,City United,FWD,2023-24,24,28,12,56,28,2710,74.2,51,2,9,1,8.3,Spanish
+221,Takeshi Bogdan,Riverside Athletic,GK,2023-24,28,0,1,3,0,3309,77.1,1,31,3,0,7.2,Norwegian
+222,Ahmed Kone,Riverside Athletic,GK,2023-24,20,0,1,2,2,3057,69.2,2,46,1,1,8.0,Senegalese
+223,Kevin Papadopoulos,Riverside Athletic,DEF,2023-24,27,1,4,6,1,2631,87.2,39,37,8,0,7.1,German
+224,Alejandro Klein,Riverside Athletic,DEF,2023-24,34,5,3,6,5,1264,72.8,17,48,4,2,7.8,Moroccan
+225,Carlos Diallo,Riverside Athletic,DEF,2023-24,19,2,1,18,3,1258,79.1,25,25,2,0,6.7,Moroccan
+226,Samuel Blanc,Riverside Athletic,DEF,2023-24,20,1,2,5,5,3051,77.2,21,49,8,1,7.6,Moroccan
+227,Oluwaseun Strauss,Riverside Athletic,DEF,2023-24,22,4,3,23,21,1166,74.1,31,48,5,0,7.7,Norwegian
+228,Ahmed Torres,Riverside Athletic,DEF,2023-24,26,1,3,7,3,2671,72.7,23,40,5,2,7.0,Mexican
+229,Takeshi Silva,Riverside Athletic,MID,2023-24,32,10,5,26,18,981,89.3,33,31,3,2,7.0,Senegalese
+230,Oluwaseun Klein,Riverside Athletic,MID,2023-24,30,2,3,42,4,2246,89.9,38,10,6,1,5.9,Norwegian
+231,Luis Diallo,Riverside Athletic,MID,2023-24,27,3,11,33,7,918,86.7,49,29,9,0,6.6,Swedish
+232,Alejandro Petrov,Riverside Athletic,MID,2023-24,20,5,11,46,7,2667,86.8,56,17,4,0,7.0,English
+233,James García,Riverside Athletic,MID,2023-24,19,8,11,43,37,2914,73.6,23,34,10,2,7.0,Dutch
+234,Ivan Eriksen,Riverside Athletic,MID,2023-24,19,4,13,47,33,3322,78.0,59,21,9,1,6.6,Moroccan
+235,Marco Reyes,Riverside Athletic,MID,2023-24,30,3,9,12,10,2490,88.1,33,28,5,0,6.8,Colombian
+236,Diego Silva,Riverside Athletic,FWD,2023-24,34,22,13,40,22,1082,64.7,33,18,9,1,7.9,Italian
+237,Luis Klein,Riverside Athletic,FWD,2023-24,35,22,12,65,29,1945,78.1,38,16,3,0,8.0,Mexican
+238,Gabriel Dubois,Riverside Athletic,FWD,2023-24,31,22,8,53,30,2364,75.9,55,13,0,0,7.4,Spanish
+239,Nikos Mbeki,Riverside Athletic,FWD,2023-24,23,27,8,69,63,1788,70.3,20,6,10,0,7.7,Norwegian
+240,Patrick Kovač,Riverside Athletic,FWD,2023-24,19,8,4,37,11,1097,79.6,27,18,2,0,5.4,Ghanaian
+241,Andre Reyes,Northern Stars,GK,2023-24,18,0,2,0,0,2728,79.3,4,56,7,2,8.8,Nigerian
+242,Daniel Klein,Northern Stars,GK,2023-24,36,0,0,1,0,3178,67.1,3,60,1,1,8.2,Polish
+243,Gabriel Kovač,Northern Stars,DEF,2023-24,24,0,1,6,0,1548,84.8,35,16,5,2,6.5,Italian
+244,Luis Silva,Northern Stars,DEF,2023-24,21,1,4,3,1,2727,77.1,12,21,2,1,6.6,Moroccan
+245,Daniel Strauss,Northern Stars,DEF,2023-24,25,3,4,12,12,1457,76.6,14,24,4,1,6.5,English
+246,Luis Torres,Northern Stars,DEF,2023-24,21,1,2,4,4,1783,77.3,21,26,10,0,6.9,Mexican
+247,Felix Silva,Northern Stars,DEF,2023-24,33,0,3,13,5,2344,72.3,34,48,6,0,7.4,Colombian
+248,Mohamed Kone,Northern Stars,DEF,2023-24,29,0,4,5,0,1230,79.9,13,46,6,0,7.4,Swedish
+249,Ivan Novak,Northern Stars,MID,2023-24,21,4,15,50,22,2002,90.7,53,32,9,1,7.7,Dutch
+250,Andre Rossi,Northern Stars,MID,2023-24,35,7,11,26,24,3309,76.5,63,11,9,0,6.8,Senegalese
+251,Ivan Johansson,Northern Stars,MID,2023-24,28,6,10,49,42,2894,90.1,50,32,0,0,6.9,Moroccan
+252,Samuel Novak,Northern Stars,MID,2023-24,32,3,12,14,5,3195,81.9,60,15,0,0,7.0,Italian
+253,Kevin Blanc,Northern Stars,MID,2023-24,31,7,8,31,12,3249,87.2,33,14,2,1,6.8,German
+254,Oluwaseun Andersen,Northern Stars,MID,2023-24,30,2,3,20,8,2505,87.9,30,32,3,2,6.2,Senegalese
+255,Samuel Adeyemi,Northern Stars,MID,2023-24,29,6,11,27,17,1785,83.9,74,10,9,1,6.5,Senegalese
+256,Patrick Blanc,Northern Stars,FWD,2023-24,19,7,11,72,7,3309,81.0,48,9,3,2,5.9,Norwegian
+257,Takeshi Petrov,Northern Stars,FWD,2023-24,34,9,2,41,9,3368,78.8,58,10,3,0,5.5,Belgian
+258,Artur Diallo,Northern Stars,FWD,2023-24,28,12,2,74,66,1248,76.0,41,6,9,0,5.6,Nigerian
+259,Andre Adeyemi,Northern Stars,FWD,2023-24,19,5,9,48,44,1173,70.6,17,4,3,0,5.7,Polish
+260,Henrik Mbeki,Northern Stars,FWD,2023-24,21,22,1,77,74,1214,79.3,34,11,8,0,6.6,English
+261,Luca Torres,Coastal FC,GK,2023-24,19,0,0,3,3,1898,76.6,2,40,9,2,7.6,Moroccan
+262,Diego Reyes,Coastal FC,GK,2023-24,25,0,1,3,3,2553,81.5,3,34,7,0,7.5,German
+263,Robert Petrov,Coastal FC,DEF,2023-24,31,0,2,5,2,2290,75.3,39,15,7,2,6.0,Mexican
+264,Samuel Alves,Coastal FC,DEF,2023-24,27,2,1,18,8,1762,79.7,27,19,8,0,6.3,French
+265,Luis Nguyen,Coastal FC,DEF,2023-24,22,5,4,21,5,1743,74.1,26,18,2,2,6.5,Nigerian
+266,Ivan Dubois,Coastal FC,DEF,2023-24,35,0,2,20,20,1112,73.3,20,36,7,0,6.9,German
+267,Matteo Adeyemi,Coastal FC,DEF,2023-24,19,0,2,11,3,2483,78.7,21,18,8,2,6.5,Italian
+268,Felix Torres,Coastal FC,DEF,2023-24,18,3,0,10,5,2814,78.1,6,29,0,0,6.5,Polish
+269,Nikos Petrov,Coastal FC,MID,2023-24,34,2,11,38,2,2263,74.8,25,10,0,0,6.5,Spanish
+270,Gabriel Marek,Coastal FC,MID,2023-24,32,3,3,26,3,2467,79.6,34,8,1,0,5.5,Moroccan
+271,Jakub García,Coastal FC,MID,2023-24,25,0,3,23,0,1801,88.9,74,8,0,0,5.8,Mexican
+272,Daniel Silva,Coastal FC,MID,2023-24,22,7,10,22,10,1790,91.2,54,23,9,0,6.8,Swedish
+273,Andre Müller,Coastal FC,MID,2023-24,36,9,9,23,18,1494,84.5,22,22,1,1,7.0,German
+274,Alejandro Papadopoulos,Coastal FC,MID,2023-24,28,12,14,26,13,2847,90.7,24,29,4,1,7.4,German
+275,Luca Kone,Coastal FC,MID,2023-24,35,0,5,31,0,1351,78.6,21,34,3,1,6.3,Swedish
+276,Andre Costa,Coastal FC,FWD,2023-24,36,1,2,29,1,2964,80.1,22,11,5,1,4.5,Belgian
+277,Ahmed Mbeki,Coastal FC,FWD,2023-24,26,15,12,26,15,2726,65.8,24,3,1,1,6.9,Norwegian
+278,Felix Novak,Coastal FC,FWD,2023-24,28,19,6,39,19,1302,66.5,68,13,2,2,6.9,Portuguese
+279,Daniel Müller,Coastal FC,FWD,2023-24,20,19,11,29,26,1644,69.9,46,17,3,2,7.3,Argentine
+280,Tomasz Okafor,Coastal FC,FWD,2023-24,18,21,9,29,21,2171,73.5,36,17,3,1,7.3,Polish
+281,Ivan Strauss,East End Rovers,GK,2023-24,18,0,2,0,0,3243,75.8,2,20,8,0,7.0,Norwegian
+282,Felix Marek,East End Rovers,GK,2023-24,23,0,1,2,0,2950,73.7,2,40,3,0,7.7,Norwegian
+283,Patrick Alves,East End Rovers,DEF,2023-24,34,0,0,11,0,2359,82.6,27,46,8,1,7.4,Senegalese
+284,Robert Müller,East End Rovers,DEF,2023-24,25,1,1,4,1,2451,73.9,37,25,6,1,6.7,Senegalese
+285,Samuel Costa,East End Rovers,DEF,2023-24,20,5,0,24,10,1289,83.3,12,31,8,2,6.8,Nigerian
+286,Luis Rossi,East End Rovers,DEF,2023-24,26,1,4,3,1,962,81.3,19,42,10,1,7.1,Croatian
+287,Diego Blanc,East End Rovers,DEF,2023-24,28,1,6,2,1,2537,83.8,18,15,4,0,6.2,French
+288,Matteo Strauss,East End Rovers,DEF,2023-24,35,0,4,16,0,968,82.3,39,18,3,2,6.4,Portuguese
+289,Andre Bakr,East End Rovers,MID,2023-24,30,8,7,45,38,1213,84.6,68,14,0,0,6.4,Mexican
+290,Felix Johansson,East End Rovers,MID,2023-24,30,8,8,50,11,3412,89.2,61,27,6,2,6.8,Brazilian
+291,Tomasz Bogdan,East End Rovers,MID,2023-24,22,5,9,54,36,1349,75.3,59,25,5,1,6.4,Moroccan
+292,Alejandro Fernandez,East End Rovers,MID,2023-24,27,11,12,45,38,3153,74.4,61,32,6,2,7.1,Polish
+293,Artur Alves,East End Rovers,MID,2023-24,25,10,3,42,41,3122,82.8,29,12,0,0,6.1,Senegalese
+294,Marco Johansson,East End Rovers,MID,2023-24,30,3,15,22,16,1194,85.9,72,33,6,0,7.2,English
+295,Emre García,East End Rovers,MID,2023-24,24,2,7,10,2,1150,72.4,36,15,4,2,6.2,Norwegian
+296,Artur Marek,East End Rovers,FWD,2023-24,26,13,6,35,13,2122,64.5,58,10,2,2,6.4,English
+297,Ivan Bogdan,East End Rovers,FWD,2023-24,20,25,9,59,39,3132,60.3,62,3,3,2,7.3,Senegalese
+298,Mohamed Torres,East End Rovers,FWD,2023-24,30,2,13,64,2,3270,81.8,34,11,5,1,5.7,Croatian
+299,Henrik Dubois,East End Rovers,FWD,2023-24,21,15,10,50,48,1797,75.6,41,12,8,2,7.0,Belgian
+300,Tomasz Alves,East End Rovers,FWD,2023-24,32,6,4,27,6,2753,69.4,51,17,9,0,5.1,Swedish
+301,Patrick Andersen,Westgate FC,GK,2023-24,24,0,1,0,0,3399,68.2,2,40,9,1,7.6,Italian
+302,Ivan Fernandez,Westgate FC,GK,2023-24,33,0,2,0,0,2533,69.8,2,21,9,2,6.6,Dutch
+303,Emre Reyes,Westgate FC,DEF,2023-24,19,0,2,24,0,3008,81.9,36,17,4,1,6.2,Croatian
+304,Henrik Okafor,Westgate FC,DEF,2023-24,24,4,6,16,4,2907,84.0,27,20,3,0,6.6,Nigerian
+305,Carlos Bogdan,Westgate FC,DEF,2023-24,22,1,5,15,12,1003,86.0,33,21,5,1,6.9,Mexican
+306,Luis Blanc,Westgate FC,DEF,2023-24,23,2,3,13,2,3405,75.9,35,41,10,2,7.3,Swedish
+307,Robert Blanc,Westgate FC,DEF,2023-24,30,2,3,12,11,2946,76.5,15,44,4,2,7.1,Norwegian
+308,Stefan Alves,Westgate FC,DEF,2023-24,35,3,6,16,4,2131,79.2,39,17,4,0,6.5,Norwegian
+309,Mohamed Okafor,Westgate FC,MID,2023-24,36,3,12,52,10,2843,83.6,67,23,1,0,6.9,Senegalese
+310,Henrik Rossi,Westgate FC,MID,2023-24,36,3,6,51,31,2638,86.3,44,18,10,0,6.4,Ghanaian
+311,Andre Novak,Westgate FC,MID,2023-24,35,5,14,14,5,1900,73.1,78,29,9,1,6.8,Senegalese
+312,Diego Okafor,Westgate FC,MID,2023-24,18,9,14,31,13,992,81.1,66,21,1,1,7.3,Colombian
+313,Luca Dubois,Westgate FC,MID,2023-24,28,9,8,29,29,989,91.2,22,32,1,0,7.2,Colombian
+314,Marco Okafor,Westgate FC,MID,2023-24,28,9,13,31,16,1825,86.1,48,12,3,2,7.3,Dutch
+315,Diego Marek,Westgate FC,MID,2023-24,30,9,13,32,19,1078,77.7,28,7,4,1,7.0,Colombian
+316,Oluwaseun Bogdan,Westgate FC,FWD,2023-24,31,11,5,74,18,1824,68.7,31,11,10,1,5.7,Belgian
+317,Jakub Mbeki,Westgate FC,FWD,2023-24,23,22,5,39,22,2219,81.4,54,9,7,2,7.0,Nigerian
+318,Oluwaseun Blanc,Westgate FC,FWD,2023-24,27,21,4,80,63,2261,66.7,50,6,5,2,7.1,Portuguese
+319,Samuel Dubois,Westgate FC,FWD,2023-24,19,18,5,57,47,2863,77.2,60,4,6,0,6.6,Senegalese
+320,Matteo Bakr,Westgate FC,FWD,2023-24,27,13,6,32,16,1835,67.6,32,13,9,2,6.0,Spanish
